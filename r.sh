@@ -1,1 +1,0 @@
-gcc -o echo.exe echo.c
